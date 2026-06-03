@@ -4,7 +4,7 @@
 
     setInterval(() => {
         const now = new Date();
-        document.title = now.toLocaleTimeString();
+        document.title = "Time: " + now.toLocaleTimeString();
     }, 1000);
 
 })();
