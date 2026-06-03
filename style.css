@@ -2,3 +2,13 @@ body {
     background-color: lightcoral;
     font-family: fantasy;
 }
+
+form {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.form-container {
+    text-align: center;
+}
